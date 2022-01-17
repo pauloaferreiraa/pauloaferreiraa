@@ -1,6 +1,6 @@
 ### hi there 👋
 
-My name is Paulo and I am Software Engineer currently working at Talkdesk 💻 .
+My name is Paulo and I am Software Engineer currently working at Reachdesk 💻 .
 <!--
 **pauloaferreiraa/pauloaferreiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
